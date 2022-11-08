@@ -26,5 +26,5 @@ mongoose
             console.log(`sever running on port ${port}`)
         })
     })
-    .catch((error) => console.log(`${error} did not connect`))
+    .catch((error) => console.log(`${error} did nott connect`))
 
